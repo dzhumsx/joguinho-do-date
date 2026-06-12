@@ -367,10 +367,10 @@ function App() {
         <div className="bg-white/60 backdrop-blur-lg border border-white/40 p-6 md:p-10 rounded-2xl shadow-xl z-10 max-w-sm md:max-w-md w-full text-center">
           <div className="text-5xl mb-4">🥰</div>
           <h1 className="text-2xl md:text-3xl font-bold text-secondary mb-2">
-            Tô contigo! 💙
+            Tô contigo gatinho(a)! 💙
           </h1>
           <p className="text-sm md:text-base text-primary font-medium mb-6">
-            Fica pronta que vou te buscar. 🚗
+            Fica pronto(a) que vou te buscar. 🚗
           </p>
 
           <div className="bg-white/80 rounded-xl p-5 text-left shadow-sm space-y-3 border border-white/60">
