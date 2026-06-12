@@ -148,6 +148,10 @@ function App() {
         {/* Decorative background elements */}
         <div className="absolute top-[-10%] left-[-10%] w-[50vw] h-[50vw] max-w-64 max-h-64 bg-primary/20 rounded-full blur-3xl z-0 pointer-events-none"></div>
         <div className="absolute bottom-[-10%] right-[-10%] w-[50vw] h-[50vw] max-w-64 max-h-64 bg-secondary/20 rounded-full blur-3xl z-0 pointer-events-none"></div>
+
+        <div className="absolute bottom-4 text-[10px] md:text-xs text-slate-400/60 z-20 hover:text-slate-600 transition-colors">
+          feito por: <a href="https://www.cristianabreu.com.br" target="_blank" rel="noopener noreferrer" className="hover:underline">Cristian</a>
+        </div>
       </div>
     );
   }
@@ -407,6 +411,10 @@ function App() {
       {/* Decorative background elements */}
       <div className="absolute top-[-10%] left-[-10%] w-[50vw] h-[50vw] max-w-64 max-h-64 bg-primary/20 rounded-full blur-3xl z-0 pointer-events-none"></div>
       <div className="absolute bottom-[-10%] right-[-10%] w-[50vw] h-[50vw] max-w-64 max-h-64 bg-secondary/20 rounded-full blur-3xl z-0 pointer-events-none"></div>
+
+      <div className="absolute bottom-4 text-[10px] md:text-xs text-slate-400/60 z-20 hover:text-slate-600 transition-colors">
+        feito por: <a href="https://www.cristianabreu.com.br" target="_blank" rel="noopener noreferrer" className="hover:underline">Cristian</a>
+      </div>
     </div>
   );
 }
